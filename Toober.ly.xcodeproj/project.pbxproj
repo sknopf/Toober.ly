@@ -14,6 +14,9 @@
 		9AC8EAFF1C94D0EA00E3C265 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AC8EAFD1C94D0EA00E3C265 /* LaunchScreen.storyboard */; };
 		9AC8EB0A1C94D0EA00E3C265 /* Toober_lyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC8EB091C94D0EA00E3C265 /* Toober_lyTests.swift */; };
 		9AC8EB151C94D0EA00E3C265 /* Toober_lyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC8EB141C94D0EA00E3C265 /* Toober_lyUITests.swift */; };
+		AE5D636CAED3FF50F8926CD2 /* Pods_Toober_lyUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4644CB17D6CE6C835A39CE5 /* Pods_Toober_lyUITests.framework */; };
+		D186B777A034E581B1A69A91 /* Pods_Toober_ly.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E40E1E59202889232615D40F /* Pods_Toober_ly.framework */; };
+		EEA40AF3B2E9650B30C56CDB /* Pods_Toober_lyTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F313BD9EAC35500D1E62EB7 /* Pods_Toober_lyTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1318E75CACEF64B3DA9080DD /* Pods-Toober.lyUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Toober.lyUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Toober.lyUITests/Pods-Toober.lyUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		2E279302055F49FE8979DF33 /* Pods-Toober.lyUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Toober.lyUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Toober.lyUITests/Pods-Toober.lyUITests.release.xcconfig"; sourceTree = "<group>"; };
+		7F313BD9EAC35500D1E62EB7 /* Pods_Toober_lyTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Toober_lyTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC8EAF11C94D0EA00E3C265 /* Toober.ly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Toober.ly.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC8EAF41C94D0EA00E3C265 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9AC8EAF61C94D0EA00E3C265 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +53,12 @@
 		9AC8EB101C94D0EA00E3C265 /* Toober.lyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Toober.lyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC8EB141C94D0EA00E3C265 /* Toober_lyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toober_lyUITests.swift; sourceTree = "<group>"; };
 		9AC8EB161C94D0EA00E3C265 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC3AC1B535A3C56CFF4E61C0 /* Pods-Toober.ly.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Toober.ly.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Toober.ly/Pods-Toober.ly.debug.xcconfig"; sourceTree = "<group>"; };
+		AC47D416815BA9FA444FC9B4 /* Pods-Toober.ly.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Toober.ly.release.xcconfig"; path = "Pods/Target Support Files/Pods-Toober.ly/Pods-Toober.ly.release.xcconfig"; sourceTree = "<group>"; };
+		AF067618A54ABA83D0B5C925 /* Pods-Toober.lyTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Toober.lyTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Toober.lyTests/Pods-Toober.lyTests.release.xcconfig"; sourceTree = "<group>"; };
+		B395E2873D922734A9FA2B4C /* Pods-Toober.lyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Toober.lyTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Toober.lyTests/Pods-Toober.lyTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B4644CB17D6CE6C835A39CE5 /* Pods_Toober_lyUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Toober_lyUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E40E1E59202889232615D40F /* Pods_Toober_ly.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Toober_ly.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D186B777A034E581B1A69A91 /* Pods_Toober_ly.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEA40AF3B2E9650B30C56CDB /* Pods_Toober_lyTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +82,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE5D636CAED3FF50F8926CD2 /* Pods_Toober_lyUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		14CF7E35A5F6AA9A5B10D7F9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				AC3AC1B535A3C56CFF4E61C0 /* Pods-Toober.ly.debug.xcconfig */,
+				AC47D416815BA9FA444FC9B4 /* Pods-Toober.ly.release.xcconfig */,
+				B395E2873D922734A9FA2B4C /* Pods-Toober.lyTests.debug.xcconfig */,
+				AF067618A54ABA83D0B5C925 /* Pods-Toober.lyTests.release.xcconfig */,
+				1318E75CACEF64B3DA9080DD /* Pods-Toober.lyUITests.debug.xcconfig */,
+				2E279302055F49FE8979DF33 /* Pods-Toober.lyUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		7E0DB32F9703E9340D89771B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E40E1E59202889232615D40F /* Pods_Toober_ly.framework */,
+				7F313BD9EAC35500D1E62EB7 /* Pods_Toober_lyTests.framework */,
+				B4644CB17D6CE6C835A39CE5 /* Pods_Toober_lyUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		9AC8EAE81C94D0EA00E3C265 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +119,8 @@
 				9AC8EB081C94D0EA00E3C265 /* Toober.lyTests */,
 				9AC8EB131C94D0EA00E3C265 /* Toober.lyUITests */,
 				9AC8EAF21C94D0EA00E3C265 /* Products */,
+				7E0DB32F9703E9340D89771B /* Frameworks */,
+				14CF7E35A5F6AA9A5B10D7F9 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -132,9 +172,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9AC8EB191C94D0EA00E3C265 /* Build configuration list for PBXNativeTarget "Toober.ly" */;
 			buildPhases = (
+				435E757EAE2EAFA17178F00A /* [CP] Check Pods Manifest.lock */,
 				9AC8EAED1C94D0EA00E3C265 /* Sources */,
 				9AC8EAEE1C94D0EA00E3C265 /* Frameworks */,
 				9AC8EAEF1C94D0EA00E3C265 /* Resources */,
+				D933C4D8DC63373CA95C9E74 /* [CP] Embed Pods Frameworks */,
+				6ADAA8EBAFAA263A2D6B68BC /* [CP] Copy Pods Resources */,
+				9A6B28A31DED3AA100967D40 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -149,9 +193,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9AC8EB1C1C94D0EA00E3C265 /* Build configuration list for PBXNativeTarget "Toober.lyTests" */;
 			buildPhases = (
+				7E8FEACC6063A91CFBAA54BE /* [CP] Check Pods Manifest.lock */,
 				9AC8EB011C94D0EA00E3C265 /* Sources */,
 				9AC8EB021C94D0EA00E3C265 /* Frameworks */,
 				9AC8EB031C94D0EA00E3C265 /* Resources */,
+				FF877C2BE1A1ACDD70F66830 /* [CP] Embed Pods Frameworks */,
+				3E34EF94F2F78F979532F8DC /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +214,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9AC8EB1F1C94D0EA00E3C265 /* Build configuration list for PBXNativeTarget "Toober.lyUITests" */;
 			buildPhases = (
+				6CB87D5324B70525FC972C73 /* [CP] Check Pods Manifest.lock */,
 				9AC8EB0C1C94D0EA00E3C265 /* Sources */,
 				9AC8EB0D1C94D0EA00E3C265 /* Frameworks */,
 				9AC8EB0E1C94D0EA00E3C265 /* Resources */,
+				95C639216F574DDC47CB769D /* [CP] Embed Pods Frameworks */,
+				88CE6DB7E063230DF9961C20 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -250,6 +300,157 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3E34EF94F2F78F979532F8DC /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Toober.lyTests/Pods-Toober.lyTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		435E757EAE2EAFA17178F00A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		6ADAA8EBAFAA263A2D6B68BC /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Toober.ly/Pods-Toober.ly-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6CB87D5324B70525FC972C73 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		7E8FEACC6063A91CFBAA54BE /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		88CE6DB7E063230DF9961C20 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Toober.lyUITests/Pods-Toober.lyUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		95C639216F574DDC47CB769D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Toober.lyUITests/Pods-Toober.lyUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9A6B28A31DED3AA100967D40 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "";
+		};
+		D933C4D8DC63373CA95C9E74 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Toober.ly/Pods-Toober.ly-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FF877C2BE1A1ACDD70F66830 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Toober.lyTests/Pods-Toober.lyTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		9AC8EAED1C94D0EA00E3C265 /* Sources */ = {
@@ -397,6 +598,7 @@
 		};
 		9AC8EB1A1C94D0EA00E3C265 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AC3AC1B535A3C56CFF4E61C0 /* Pods-Toober.ly.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Toober.ly/Info.plist;
@@ -408,6 +610,7 @@
 		};
 		9AC8EB1B1C94D0EA00E3C265 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AC47D416815BA9FA444FC9B4 /* Pods-Toober.ly.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Toober.ly/Info.plist;
@@ -419,6 +622,7 @@
 		};
 		9AC8EB1D1C94D0EA00E3C265 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B395E2873D922734A9FA2B4C /* Pods-Toober.lyTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = Toober.lyTests/Info.plist;
@@ -431,6 +635,7 @@
 		};
 		9AC8EB1E1C94D0EA00E3C265 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AF067618A54ABA83D0B5C925 /* Pods-Toober.lyTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = Toober.lyTests/Info.plist;
@@ -443,6 +648,7 @@
 		};
 		9AC8EB201C94D0EA00E3C265 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1318E75CACEF64B3DA9080DD /* Pods-Toober.lyUITests.debug.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = Toober.lyUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -455,6 +661,7 @@
 		};
 		9AC8EB211C94D0EA00E3C265 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2E279302055F49FE8979DF33 /* Pods-Toober.lyUITests.release.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = Toober.lyUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -484,6 +691,7 @@
 				9AC8EB1B1C94D0EA00E3C265 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9AC8EB1C1C94D0EA00E3C265 /* Build configuration list for PBXNativeTarget "Toober.lyTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +700,7 @@
 				9AC8EB1E1C94D0EA00E3C265 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9AC8EB1F1C94D0EA00E3C265 /* Build configuration list for PBXNativeTarget "Toober.lyUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +709,7 @@
 				9AC8EB211C94D0EA00E3C265 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

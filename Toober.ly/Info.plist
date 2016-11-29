@@ -2,6 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+
+<key>Fabric</key>
+<dict>
+    <key>APIKey</key>
+    <string>3729137224d1fc279347b710d7047f1816a90cb6</string>
+    <key>Kits</key>
+    <array>
+        <dict>
+            <key>KitInfo</key>
+            <dict>
+                <key>url</key>
+                <string>twitter23.zendesk.com</string>
+                <key>identifier</key>
+                <string>Toober.ly</string>
+                <key>client_identifier</key>
+                <string></string>
+            </dict>
+            <key>KitName</key>
+            <string>ZendeskSDK</string>
+        </dict>
+    </array>
+</dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
