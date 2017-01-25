@@ -6,8 +6,7 @@ target 'Toober.ly' do
   use_frameworks!
   pod 'Fabric'
   pod 'ZendeskSDK'
-
-  # Pods for Toober.ly
+  pod 'Firebase/Core'
 
   target 'Toober.lyTests' do
     inherit! :search_paths
