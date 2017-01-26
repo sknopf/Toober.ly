@@ -19,6 +19,7 @@ PODS:
   - GoogleToolboxForMac/Defines (2.1.0)
   - GoogleToolboxForMac/NSData+zlib (2.1.0):
     - GoogleToolboxForMac/Defines (= 2.1.0)
+  - Mapbox-iOS-SDK (3.3.7)
   - ZendeskSDK (1.7.6.1):
     - ZendeskSDK/Providers (= 1.7.6.1)
     - ZendeskSDK/UI (= 1.7.6.1)
@@ -29,6 +30,7 @@ PODS:
 DEPENDENCIES:
   - Fabric
   - Firebase/Core
+  - Mapbox-iOS-SDK
   - ZendeskSDK
 
 SPEC CHECKSUMS:
@@ -40,8 +42,9 @@ SPEC CHECKSUMS:
   GoogleInterchangeUtilities: d5bc4d88d5b661ab72f9d70c58d02ca8c27ad1f7
   GoogleSymbolUtilities: 631ee17048aa5e9ab133470d768ea997a5ef9b96
   GoogleToolboxForMac: 2b2596cbb7186865e98cadf2b1e262d851c2b168
+  Mapbox-iOS-SDK: 142301fa63a6719cbd2eacc0f9e8bf36c65930d9
   ZendeskSDK: b5673b1930b9f119f55ac2f3263eb5f259468883
 
-PODFILE CHECKSUM: 756e265219f73a64f90f00658437966e81958460
+PODFILE CHECKSUM: c4a122b1f7b965c15bdbf1fc35f6817af5eece47
 
 COCOAPODS: 1.1.1

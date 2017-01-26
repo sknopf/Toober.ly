@@ -6,6 +6,7 @@ target 'Toober.ly' do
   use_frameworks!
   pod 'Fabric'
   pod 'ZendeskSDK'
+  pod 'Mapbox-iOS-SDK'
   pod 'Firebase/Core'
 
   target 'Toober.lyTests' do
